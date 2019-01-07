@@ -22,6 +22,6 @@ Properties of every image:
 ## How To Run
 
 * You can access it by clicking on the link given below.
- 
+ https://harsimransingh60.github.io/Medcords_Assignments/
 
 
